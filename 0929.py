@@ -5,4 +5,4 @@ class A:
         self.see = "5"
         self.eat = "6"
 
-
+        "some bug"
